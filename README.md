@@ -1,6 +1,6 @@
 # Prerequisites
 
-Have `Node.js` installed.
+ - `Node.js`.
 
 # Step by step
 
