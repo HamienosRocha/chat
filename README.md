@@ -4,17 +4,13 @@
 
 # Step by step
 
-1. create `package.json`
+1. install the dependencies
 
-   - `npm init -y`
+   - `npm install`
 
-2. install `ejs`, `express` and `socket.io`
-
-   - `npm install ejs express socket.io`
-
-3. run the application
+2. run the application
 
    - `node server.js`
 
-4. open in or more browsers
+3. open in or more browsers
    - `localhost:7031`
